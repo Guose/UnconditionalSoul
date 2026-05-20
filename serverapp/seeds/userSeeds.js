@@ -14,7 +14,7 @@ exports.seed = async function(knex) {
           lastname: 'Elder',
           username: 'JustinElder',
           password: '5p3ctrum!',
-          email: 'justin@showcasemi.com',
+          email: 'justin@showcaservhub.com',
           phoneNumber: 4259234362,
           birthdate: moment('1979-08-14').format('YYYY-MM-DD')
         }
